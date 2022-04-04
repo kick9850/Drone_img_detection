@@ -1,0 +1,21 @@
+카메라 + lidar
+제품명 : Intel® RealSense™ LiDAR Camera L515
+가격 : 340$
+구매링크 : https://www.amazon.com/Intel-RealSense-LiDAR-Camera-L515/dp/B0855LWPLN
+
+송수신 모듈
+제품명 :  SIM7600X 4G DONGLE (2개 구매 요망)
+가격 : 65$ 
+구매링크 : https://www.waveshare.com/product/sim7600g-h-4g-dongle.htm
+
+라이즈베리파이
+가격 : 114,000 원
+구매링크 : https://www.eleparts.co.kr/goods/view?no=9467937
+
+세라믹 인두기 전기 납땜 인두기 JY-20150
+가격 : 63,000
+구매링크 : http://item.gmarket.co.kr/Item?goodscode=1965316010
+
+납땜 보조용 도구 / 써드핸드 / LED 내장 / LTS-88220
+기격 : 26,400
+구매링크 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=544226&category=

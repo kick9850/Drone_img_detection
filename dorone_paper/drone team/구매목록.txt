@@ -1,0 +1,60 @@
+라이더 후보군
+1>[YDLIDAR]라이다 센서 (X4)
+
+가격 : 103,389원 (VAT포함가)
+구매 링크 : https://www.navimro.com/p/items/K28298471/?access_google_shopping&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4at343ObqshVTsgrBzKMZJmZLTWEFLRjHJHE9_D_0lvAnukckJAq89oaAqOuEALw_wcB
+
+
+2>LW20 LiDAR 레이저 스캐너 -100m, 시리얼 출력 (LW20 LiDAR -100m, Serial)
+
+가격 : 480,360원
+구매링크 : http://vctec.co.kr/product/lw20-lidar-%EB%A0%88%EC%9D%B4%EC%A0%80-%EC%8A%A4%EC%BA%90%EB%84%88-100m-%EC%8B%9C%EB%A6%AC%EC%96%BC-%EC%B6%9C%EB%A0%A5-lw20-lidar-100m-serial/11184/
+
+3>
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+카메라후보군
+
+1.뎁스 카메라
+
+1-1> [Intel RealSense]Intel® RealSense™ Depth Camera (D455)
+가격 : 461,989원
+구매링크 : https://www.navimro.com/p/items/K47936736/?access_google_shopping&utm_source=google&utm_medium=shopping&gclid=Cj0KCQjwxJqHBhC4ARIsAChq4av3kGh1HVaGX5JVqHXGoWSY8TUEcuW98GLKvOAbMHv79QNobra6n-caApaCEALw_wcB
+
+1-2> 인텔 RealSense Depth Camera D435
+가격 : 279,740
+구매링크 : http://www.gmarket.co.kr/challenge/neo_jaehu/jaehu_goods_gate.asp?goodscode=1963319756&GoodsSale=Y&jaehuid=200002657&service_id=pcdn
+
+1-3>인텔 RealSense Depth Camera D435i
+가격 : 310,890
+구매링크 : http://www.gmarket.co.kr/challenge/neo_jaehu/jaehu_goods_gate.asp?goodscode=1889683531&GoodsSale=Y&jaehuid=200002657&service_id=pcdn
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+2.액션캠
+
+2-1 인스타360 GO2 (기본 패키지)
+가격 : 388000
+구매링크 : http://prod.danawa.com/info/?pcode=13584074&keyword=%EC%95%A1%EC%85%98%EC%BA%A0&cate=12337553
+
+2-2>고프로 히어로5 세션 (기본 패키지)
+가격 : 489500
+구매링크 : http://prod.danawa.com/info/?pcode=4484509&keyword=%EC%95%A1%EC%85%98%EC%BA%A0&cate=12337553
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+3.송수신 모듈 탑제 카메라
+
+3-1> FPV 마이크로 AIO 카메라 5.8G 48CH 25 MW VTX 600TVL 1/3 CMOS AIO FPV 카메라, FPV (해외직구)
+가격 : 45,100
+구매링크 : https://front.wemakeprice.com/product/1428701417?utm_source=google_ss&utm_medium=cpc&utm_campaign=r_sa
+
+3-2> 1/4. 5 인치 CMOS 700TVL 120 학위 5.8G 40CH 25MW FPV 카메라 VTX 3.3G 미니 RC 드론(해외 직구)
+가격 : 45,500원
+구매링크 : https://front.wemakeprice.com/product/1494565963?utm_source=google_ss&utm_medium=cpc&utm_campaign=r_sa
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+송수신 모듈 후보군
+
+1. 장거리 RF 무선모듈 263MHz 아두이노 라즈베리파이
+가격 : 30,000
+구매링크 : http://item.gmarket.co.kr/Item?goodscode=1255883360
+
+2.아두이노 RF통신 nRF24L01 + 2.4GHz 모듈 (최대 200m)
+가격 : 8,800원
+구매링크 : https://eduino.kr/product/detail.html?product_no=162
